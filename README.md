@@ -21,7 +21,7 @@ Page /tools/suggested-edits:
 
 Page user activity:
  - no keyboard selection
- - navigation shout re-initialise the previos/last
+ - navigation shout re-initialise the previous/last
  
 Page saves:
  - no keyboard shortcuts at all - the script is not loaded (https://cdn.sstatic.net/Js/keyboard-shortcuts.en.js)
