@@ -8,9 +8,9 @@ This should fix the following things:
  - <kbd>P</kbd> <kbd>F</kbd> - to go to the first page
  - <kbd>P</kbd> <kbd>N</kbd> - to go to the next page
  - <kbd>P</kbd> <kbd>P</kbd> - to go to the previous page
- - <kbd>P</kbd> <kbd>U</kbd> - to select the first post (top)
- - <kbd>P</kbd> <kbd>J</kbd> - to select the next post (down)
- - <kbd>P</kbd> <kbd>K</kbd> - to select the previous post (up)
+ - <kbd>U</kbd> - to select the first post (top)
+ - <kbd>J</kbd> - to select the next post (down)
+ - <kbd>K</kbd> - to select the previous post (up)
 
 ## Known issues
 Page /tools/protected-questions:
