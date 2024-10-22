@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Keyboard navigation fixes
-// @description     Fix keyboard navigation shortcuts on most places to allow navigationg to pages and going up/down the list.
+// @description     Fix keyboard navigation shortcuts on most places to allow navigating to pages and going up/down the list.
 // @author          VLAZ
 // @inject-into     page
 // @match           https://stackoverflow.com/*
